@@ -52,7 +52,7 @@ def test_all_motors():
         time.sleep(1)
         controller.move_servo(channel, 135) # Right
         time.sleep(1)
-        controller.move_servo(channel, 90)  # Back to center
+        controller.move_servo(channel, 0)  # Back to center
         time.sleep(1)
         
         # Ask user to identify
