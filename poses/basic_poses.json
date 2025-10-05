@@ -1,0 +1,134 @@
+{
+  "poses": {
+    "rest": {
+      "description": "Neutral resting position",
+      "left_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      }
+    },
+    "arms_raised": {
+      "description": "Both arms raised up high",
+      "left_arm": {
+        "shoulder": 30,
+        "elbow": 60,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 30,
+        "elbow": 60,
+        "wrist": 90
+      }
+    },
+    "arms_out": {
+      "description": "Arms stretched out to the sides",
+      "left_arm": {
+        "shoulder": 90,
+        "elbow": 180,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 180,
+        "wrist": 90
+      }
+    },
+    "left_wave_up": {
+      "description": "Left arm waving position - up",
+      "left_arm": {
+        "shoulder": 45,
+        "elbow": 90,
+        "wrist": 60
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      }
+    },
+    "left_wave_down": {
+      "description": "Left arm waving position - down",
+      "left_arm": {
+        "shoulder": 45,
+        "elbow": 90,
+        "wrist": 120
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      }
+    },
+    "pointing_left": {
+      "description": "Pointing with left arm",
+      "left_arm": {
+        "shoulder": 45,
+        "elbow": 180,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      }
+    },
+    "pointing_right": {
+      "description": "Pointing with right arm", 
+      "left_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 45,
+        "elbow": 180,
+        "wrist": 90
+      }
+    },
+    "celebration": {
+      "description": "Both arms up in celebration",
+      "left_arm": {
+        "shoulder": 20,
+        "elbow": 45,
+        "wrist": 70
+      },
+      "right_arm": {
+        "shoulder": 20,
+        "elbow": 45,
+        "wrist": 110
+      }
+    },
+    "thinking": {
+      "description": "One hand near head, thinking pose",
+      "left_arm": {
+        "shoulder": 45,
+        "elbow": 60,
+        "wrist": 45
+      },
+      "right_arm": {
+        "shoulder": 90,
+        "elbow": 90,
+        "wrist": 90
+      }
+    },
+    "arms_crossed": {
+      "description": "Arms crossed in front",
+      "left_arm": {
+        "shoulder": 110,
+        "elbow": 120,
+        "wrist": 90
+      },
+      "right_arm": {
+        "shoulder": 70,
+        "elbow": 120,
+        "wrist": 90
+      }
+    }
+  }
+}

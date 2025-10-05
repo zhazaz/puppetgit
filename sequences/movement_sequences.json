@@ -1,0 +1,159 @@
+{
+  "sequences": {
+    "greeting": {
+      "description": "A friendly greeting sequence",
+      "steps": [
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        },
+        {
+          "pose": "left_wave_up",
+          "duration": 0.5,
+          "speed": 5
+        },
+        {
+          "pose": "left_wave_down", 
+          "duration": 0.5,
+          "speed": 5
+        },
+        {
+          "pose": "left_wave_up",
+          "duration": 0.5,
+          "speed": 5
+        },
+        {
+          "pose": "left_wave_down",
+          "duration": 0.5,
+          "speed": 5
+        },
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        }
+      ]
+    },
+    "celebration_dance": {
+      "description": "A celebratory dance sequence",
+      "steps": [
+        {
+          "pose": "rest",
+          "duration": 0.5,
+          "speed": 3
+        },
+        {
+          "pose": "celebration",
+          "duration": 1.0,
+          "speed": 4
+        },
+        {
+          "pose": "arms_out",
+          "duration": 0.8,
+          "speed": 5
+        },
+        {
+          "pose": "celebration",
+          "duration": 1.0,
+          "speed": 4
+        },
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        }
+      ]
+    },
+    "pointing_demo": {
+      "description": "Pointing left and right demonstration",
+      "steps": [
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        },
+        {
+          "pose": "pointing_left",
+          "duration": 2.0,
+          "speed": 4
+        },
+        {
+          "pose": "rest",
+          "duration": 0.5,
+          "speed": 3
+        },
+        {
+          "pose": "pointing_right",
+          "duration": 2.0,
+          "speed": 4
+        },
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        }
+      ]
+    },
+    "thinking_sequence": {
+      "description": "A thoughtful contemplation sequence",
+      "steps": [
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 2
+        },
+        {
+          "pose": "thinking",
+          "duration": 3.0,
+          "speed": 2
+        },
+        {
+          "pose": "arms_crossed",
+          "duration": 2.0,
+          "speed": 2
+        },
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 2
+        }
+      ]
+    },
+    "exercise_routine": {
+      "description": "Simple arm exercise routine",
+      "steps": [
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        },
+        {
+          "pose": "arms_raised",
+          "duration": 1.5,
+          "speed": 3
+        },
+        {
+          "pose": "arms_out",
+          "duration": 1.5,
+          "speed": 3
+        },
+        {
+          "pose": "arms_raised",
+          "duration": 1.5,
+          "speed": 3
+        },
+        {
+          "pose": "arms_out",
+          "duration": 1.5,
+          "speed": 3
+        },
+        {
+          "pose": "rest",
+          "duration": 1.0,
+          "speed": 3
+        }
+      ]
+    }
+  }
+}
