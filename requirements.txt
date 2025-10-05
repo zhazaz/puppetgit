@@ -5,4 +5,3 @@ adafruit-circuitpython-servokit
 RPi.GPIO
 gpiozero
 numpy
-time
